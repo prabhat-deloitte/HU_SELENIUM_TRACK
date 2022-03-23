@@ -1,0 +1,33 @@
+ relative Xpath for the logo --> //img[@style="max-height:40px;border-radius:5px;background:transparent;padding:4px;"]
+ full Xpath for logo -->          /header/div[2]/div/div/div/div/div[1]/a/img
+ 
+
+rel (home) --> //a[@title = 'home']
+				
+
+●	PHPTRAVLES Logo    rel =   //img[@style="max-height:40px;border-radius:5px;background:transparent;padding:4px;"]
+                           full=  /header/div[2]/div/div/div/div/div[1]/a/img
+
+●	Home             rel (home) =  //a[@title = 'home']
+ 			full = /header/div[2]/div/div/div/div/div[2]/nav/ul/li[1]/a
+
+
+●	Flights 	
+
+
+●	Tours
+
+
+●	Company
+
+
+●	Signup Btn
+
+
+●	Login Btn
+
+
+●	Agents DropDown
+
+
+
