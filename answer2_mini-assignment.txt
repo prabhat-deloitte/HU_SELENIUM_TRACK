@@ -1,0 +1,20 @@
+Answer 2 mini_Assignment 1
+
+
+●	Check in - Calendar Icon  //div[@class = 'row g-0 items-center']/descendant-or-self::span[@class = 'la la-calendar form-icon'][1]
+
+
+●	Check Out – Calendar Icon  //div[@class = 'row g-0 items-center']/descendant-or-self::span[@class = 'la la-calendar form-icon'][2]
+
+
+●	“- ” for Adults    //div[@class = 'qty-box d-flex align-items-center justify-content-between']/child::div[@class = 'qtyBtn d-flex align-items-center']/descendant::i[@class = 'la la-minus']
+
+
+●	“+” for Adults     //div[@class = 'qty-box d-flex align-items-center justify-content-between']/child::div[@class = 'qtyBtn d-flex align-items-center']/descendant::i[@class = 'la la-plus']
+
+
+●	“-“ for Childs     //div[@class = 'qtyBtn d-flex align-items-center child_ages']/child::div[@class  ='qtyDec']/child::i[@class = 'la la-minus']
+
+
+●	“+” for Childs      //div[@class = 'qtyBtn d-flex align-items-center child_ages']/descendant::i[@class = 'la la-plus']
+
