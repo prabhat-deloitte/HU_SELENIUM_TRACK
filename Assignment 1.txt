@@ -1,0 +1,24 @@
+Answer 1 for Mini_asignment 1
+
+●	Home             //*[text() ='Home']
+ 			
+
+●	Flights 	//*[text() ='Flights ']
+
+
+●	Tours		//*[text() ='Tours']
+
+
+●	Company		//*[text()="Company "]
+
+
+●	Signup Btn      //*[text() ='Signup']
+
+
+●	Login Btn       //*[text() ='Login']
+
+
+●	Agents DropDown    //*[@id="agents"]
+
+
+
